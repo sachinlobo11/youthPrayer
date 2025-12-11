@@ -269,7 +269,7 @@ useEffect(() => localStorage.setItem("progress", JSON.stringify(perStudyProgress
         </button>
 
               </div>
-              <DevotionalGenerator/>
+              
             </Card>
             
               {/* Render Quiz when button clicked */}
@@ -378,5 +378,6 @@ if (activeQuiz) {
     </div>
   );
 }
+
 
 
