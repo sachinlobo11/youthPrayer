@@ -1,0 +1,52 @@
+[
+  {
+    "question": "According to 1 Timothy 4, what is more beneficial than bodily training?",
+    "options": ["Worldly stories", "Godliness", "Wealth", "Strength"],
+    "answer": "Godliness"
+  },
+  {
+    "question": "What did Paul instruct Timothy not to let anyone do because of his youth?",
+    "options": ["Mock him", "Encourage him", "Bless him", "Teach him"],
+    "answer": "Mock him"
+  },
+  {
+    "question": "What qualities should young believers be examples in, as Paul advised Timothy?",
+    "options": ["Wealth, Power, Fame", "Speech, Conduct, Love, Faith, Purity", "Singing, Preaching, Dancing", "Wisdom, Knowledge, Skills"],
+    "answer": "Speech, Conduct, Love, Faith, Purity"
+  },
+  {
+    "question": "Which spirit has God given us, according to 2 Timothy 1:7?",
+    "options": [
+      "A spirit of fear",
+      "A spirit of weakness",
+      "A spirit of power, love, and self-discipline",
+      "A spirit of doubt"
+    ],
+    "answer": "A spirit of power, love, and self-discipline"
+  },
+  {
+    "question": "What should young believers flee from, as written in 2 Timothy 2:22?",
+    "options": [
+      "Prayer and worship",
+      "Youthful desires",
+      "Love and faith",
+      "Righteousness"
+    ],
+    "answer": "Youthful desires"
+  },
+  {
+    "question": "According to 1 John 4:4, why can believers overcome the world?",
+    "options": [
+      "Because of their wisdom",
+      "Because of their wealth",
+      "Because the one in them is greater than the one in the world",
+      "Because they pray loudly"
+    ],
+    "answer": "Because the one in them is greater than the one in the world"
+  },
+  {
+    "question": "According to 1 John 2:15, what should believers not love?",
+    "options": ["God", "The world or anything in the world", "The church", "The truth"],
+    "answer": "The world or anything in the world"
+  }
+]

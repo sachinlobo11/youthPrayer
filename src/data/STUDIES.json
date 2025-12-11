@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Seeking God's Presence",
+    "thumbnail": "https://images.unsplash.com/photo-1532446813800-37c8a0071b0d?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/live_stream?channel=UCJpMr8YmtMCH9fB1KRx_LHg",
+    "notesFile": "notes/Seeking God's Presence.md",
+    "verses": [],
+    "sermon": "Sis. Vinodha",
+    "duration": "19:42"
+    
+  },
+  {
+    "id": 2,
+    "title": "ನೀವು ಒಡೆದ ಪಾತ್ರೆಗಳಲ್ಲ, ಬದಲಾಗಿ ದೇವರ ಕೈಯಲ್ಲಿ ಸರಿಪಡಿಸಲ್ಪಟ್ಟ ಪಾತ್ರೆಗಳು",
+    "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/1QOqYw1Y9T8?rel=0",
+    "notesFile": "notes/richard.md",
+    "verses": ["1Timothy 4:8", "1 Timothy 4:12", "1John 4:4","2Timothy 1:7","1Timothy 2:15-17"],
+    "sermon": "Ps. Richard",
+    "duration": "30:03",
+    "quiz": [
+    {
+      "q": "What is God's love?",
+      "options": ["Conditional", "Unconditional", "Temporary"],
+      "correctIndex": 1,
+      "xp": 10
+    }
+  ]
+  },
+  {
+    "id": 3,
+    "title": "Adam & Eve's Punishment Wasn't What You Think !",
+    "thumbnail": "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/o9Z8nRvlC5g?rel=0",
+    "notesFile": "notes/love-of-god.md",
+    "verses": ["Genesis 3:7", "Genesis 3:21","Galathian 3:13","Psalm 91:1"],
+    "sermon": "Ps.Chethan Kumar",
+    "duration": "47:27","quiz": [
+    {
+      "q": "What is God's love?",
+      "options": ["Conditional", "Unconditional", "Temporary"],
+      "correctIndex": 1,
+      "xp": 10
+    },
+    {
+        "q": "James 1:2-4 tells us to count it…",
+        "options": ["Sorrow", "Confusion", "Great joy", "Anger"],
+        "correctIndex": 2,
+        "xp": 10
+      }
+  ]
+  }
+]

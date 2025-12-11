@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What did David desire most according to the sermon?",
+    "options": ["Wealth", "Power", "God's presence", "Victory in battles"],
+    "answer": "God's presence"
+  },
+  {
+    "question": "How many times a day did David pray and call upon God?",
+    "options": ["Three times", "Five times", "Seven times", "Once"],
+    "answer": "Three times"
+  },
+  {
+    "question": "According to Psalms 55:16, what did David say he would do?",
+    "options": ["Pray three times a day", "Sing all night", "Read the law daily", "Fast every week"],
+    "answer": "Pray three times a day"
+  },
+  {
+    "question": "In Psalms 59:16, when did David say he would praise God's love?",
+    "options": ["At noon", "At evening", "In the morning", "At midnight"],
+    "answer": "In the morning"
+  },
+  {
+    "question": "What was the first thing David did in the morning?",
+    "options": ["Speak to people", "Go to battle", "Lift his voice to God", "Feed his sheep"],
+    "answer": "Lift his voice to God"
+  },
+  {
+    "question": "How many times a day did David praise God according to the teaching?",
+    "options": ["Three times", "Seven times", "Five times", "Ten times"],
+    "answer": "Seven times"
+  },
+  {
+    "question": "What did God do for David because he sought His presence?",
+    "options": ["Made him Israel's king", "Gave him great riches", "Built him a palace", "Kept him from work"],
+    "answer": "Made him Israel's king"
+  },
+  {
+    "question": "According to 2 Samuel 3:1, what happened to David as he sought God?",
+    "options": ["He became weaker", "He grew stronger", "He lost battles", "He stopped praying"],
+    "answer": "He grew stronger"
+  },
+  {
+    "question": "What did God grant David wherever he went, according to 2 Samuel 8:6?",
+    "options": ["Fame", "Victory", "Wealth", "Wisdom"],
+    "answer": "Victory"
+  },
+  {
+    "question": "What did God give David besides anointing and strength?",
+    "options": ["Honor and respect", "A new covenant", "A great army", "A golden crown"],
+    "answer": "Honor and respect"
+  }
+]

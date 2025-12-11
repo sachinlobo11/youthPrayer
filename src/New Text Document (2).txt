@@ -1,0 +1,44 @@
+import { useState, useEffect } from "react";
+import { askAIAboutWrongAnswers } from "./ai";
+
+export default function AIChat({ wrongAnswers, onClose }) {
+  const [response, setResponse] = useState("");
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function fetchAnswer() {
+      setLoading(true);
+      const res = await askAIAboutWrongAnswers(wrongAnswers);
+      setResponse(res);
+      setLoading(false);
+    }
+    fetchAnswer();
+  }, [wrongAnswers]);
+
+  return (
+    <div className="fixed inset-0 bg-black/70 backdrop-blur-lg flex items-center justify-center z-50">
+      <div className="bg-white/10 border border-white/20 rounded-xl shadow-xl p-6 w-full max-w-lg text-white relative">
+        <h2 className="text-xl font-bold mb-4">AI Answer Review</h2>
+        {loading ? (
+          <p className="animate-pulse">Thinking...</p>
+        ) : (
+          <div className="space-y-4">
+            <div className="p-3 rounded-lg bg-white/5 border border-white/10">
+              {response}
+            </div>
+            <p className="text-sm text-red-300 italic">
+              ⚠ AI might make mistakes. Please verify with Scripture.
+            </p>
+          </div>
+        )}
+
+        <button
+          onClick={onClose}
+          className="mt-4 px-4 py-2 rounded-lg bg-white/20 hover:bg-white/30 transition"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What did Adam and Eve use as a temporary solution to cover their shame?",
+    "options": ["Animal skin", "Fig leaves", "Wool", "Silk"],
+    "answer": "Fig leaves"
+  },
+  {
+    "question": "What permanent covering did God provide for Adam and Eve?",
+    "options": ["Sheep wool", "Animal skin garment", "Silk robe", "Linen cloth"],
+    "answer": "Animal skin garment"
+  },
+  {
+    "question": "What does prayer represent according to the teaching?",
+    "options": [
+      "Hiding from God",
+      "Hiding in God",
+      "Speaking to angels",
+      "Meditating on creation"
+    ],
+    "answer": "Hiding in God"
+  },
+  {
+    "question": "At what time did God come to meet Adam in the garden?",
+    "options": ["Morning", "Noon", "Evening", "Night"],
+    "answer": "Evening"
+  },
+  {
+    "question": "Who fell into sin when he stayed idle in the evening instead of seeking God?",
+    "options": ["David", "Saul", "Moses", "Solomon"],
+    "answer": "David"
+  },
+  {
+    "question": "What happens when a person stops praying?",
+    "options": [
+      "They grow spiritually stronger",
+      "They easily fall into sin",
+      "They see more visions",
+      "They gain wisdom automatically"
+    ],
+    "answer": "They easily fall into sin"
+  }
+]
