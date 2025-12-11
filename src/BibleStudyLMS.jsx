@@ -384,11 +384,16 @@ if (activeQuiz) {
         {/* Title */}
         <h2 className="text-lg font-semibold tracking-wide text-white">
           End Time Full Gospel Harvesters Church Mangalore
-        </h2> </div></footer>
+        </h2> 
+       <p className="text-xs text-gray-500">
+          © {new Date().getFullYear()} Chokmah 0.5.0 , All Rights Reserved.
+        </p>
+      </div></footer>
 
     </div>
   );
 }
+
 
 
 
