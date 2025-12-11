@@ -378,15 +378,11 @@ if (activeQuiz) {
         </div>
         
       </div>
-<br>
-       Chokmah Youth - v 0.5.1 Alpha release [Experimental]
-</br>
-      <br>
-      ▽ 
-      </br> 
+
     </div>
   );
 }
+
 
 
 
