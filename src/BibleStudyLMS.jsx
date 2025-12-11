@@ -301,12 +301,12 @@ if (activeQuiz) {
       <div className="max-w-6xl mx-auto">
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
-  <h1 className="text-xl ">Connect and Pray Web Series !</h1>
+  <h1 className="text-xl ">Grow Deeper in Faith!</h1>
   <TopMenu />
 </div>
         <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between mb-6">
           <div>
-            <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight"> Church</h1>
+            <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight"> Connect and Pray</h1>
             <p className="text-gray-600 mt-1">Browse studies, watch the teaching, and read notes.</p>
           </div>
           {/* XP Roadmap */}
@@ -371,6 +371,9 @@ if (activeQuiz) {
                 </Button>
               </div>
             </Card>
+
+      <b>
+      Chokmah Youth - v 0.5.1 Alpha release [Experimental] <<CyberTron>>
           ))}
         </div>
         
@@ -378,6 +381,7 @@ if (activeQuiz) {
     </div>
   );
 }
+
 
 
 
