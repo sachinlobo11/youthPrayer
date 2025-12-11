@@ -378,10 +378,18 @@ if (activeQuiz) {
         </div>
         
       </div>
+<footer className="w-full bg-black text-gray-300 py-6 mt-10 border-t border-white/10">
+      <div className="max-w-5xl mx-auto px-4 text-center">
+
+        {/* Title */}
+        <h2 className="text-lg font-semibold tracking-wide text-white">
+          End Time Full Gospel Harvesters Church Mangalore
+        </h2> </div></footer>
 
     </div>
   );
 }
+
 
 
 
