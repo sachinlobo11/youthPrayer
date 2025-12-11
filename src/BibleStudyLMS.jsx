@@ -372,15 +372,20 @@ if (activeQuiz) {
               </div>
             </Card>
 
-      <b>
-      Chokmah Youth - v 0.5.1 Alpha release [Experimental] <<CyberTron>>
+      
+     
           ))}
         </div>
         
       </div>
+<br>
+       Chokmah Youth - v 0.5.1 Alpha release [Experimental]
+      <br>
+      <<CyberTron>>
     </div>
   );
 }
+
 
 
 
