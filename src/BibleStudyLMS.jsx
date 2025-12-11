@@ -381,10 +381,11 @@ if (activeQuiz) {
 <br>
        Chokmah Youth - v 0.5.1 Alpha release [Experimental]
       <br>
-      <<CyberTron>>
+      ▽ 
     </div>
   );
 }
+
 
 
 
